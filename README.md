@@ -1,8 +1,8 @@
 # TicketSwap Android Assessment
 
 As you know our business is centered on events like concerts and festivals. We love bringing people together to enjoy the best artists and events.
-As you probably know by now, since the Zombie Virus breakout we cannot do this anymore, people have to stay far away from each other so this biblical nightmare can end soon.
-But that does not mean we are defeated, in fact we decided that we should put our brains at work to help with this unprecendeted catastrophe, and we started working on an app to help with the vaccination process.
+As you probably know by now, since the Zombie Virus breakout we cannot do this anymore, people have to stay far away from each other for this nightmare to end.
+But that does not mean we are defeated, in fact we decided that we should put our brains at work to help with this unprecedented catastrophe, and started working on an app to help with the vaccination process.
 Nobody likes Zombies. We want to bring people back to concerts, and it would be nice if they didn't eat each others!
 
 One of our Android developers started working on a basic app to enable people to:
@@ -10,7 +10,7 @@ One of our Android developers started working on a basic app to enable people to
 - Choose one of the available vaccines
 - Book an appointment to the nearest vaccination center
 
-Unfortunately he was bitten while coming to the office, he knew he had not much time left so, heroically, he completed the first version of the app while slowly turning into a zombie. We all love him, and wish him a prompt recovery, but at this time we cannot rely on his coding skills for obvious reasons.
+Unfortunately they were bitten while coming to the office, they knew they had not much time left so, heroically, they completed the first version of the app while slowly turning into a zombie. We wish them a prompt recovery, but at this time we cannot rely on their coding skills for obvious reasons.
 
 That's why we need your help.
 
