@@ -21,6 +21,10 @@ In this repo you will find the code for the app, we would like you to perform a 
 - Is the code easy to understand?
 - Any other thoughts?
 
-Thank you for your help, please provide your review in a text file stating, for each comment, the file name, the line and the severity of the issue. If the comment does not refer to any specific code line just put it at the top as a sentence but please state how severe the issue is according to you.
+## How to review
 
-Good luck!
+Please add your comments inside the code above/close the relevant lines.
+For more generic comments, please add a list of points above the MainActivity class definition.
+Once you are done, zip the whole project and sent it to us.
+
+Thank you and Good luck!
